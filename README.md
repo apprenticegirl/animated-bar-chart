@@ -1,4 +1,4 @@
-# Animated-Bar-Chart
+# animated-bar-chart
 An R tutorial on how to create an animated bar chart
 
 ## What is this about?
