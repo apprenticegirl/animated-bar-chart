@@ -12,3 +12,8 @@ In order to create animated charts, you must install:
 - Imagemagick. [In this link](https://imagemagick.org/script/download.php) you can find the steps to install the program.
  
 - Gifski library. This library converts a set of images in a gif.
+
+## What's the final result?
+After following all the steps described in the R script, we will have a beautiful animated bar chart!
+
+![Output sample](https://github.com/apprenticegirl/animated-bar-chart/blob/master/babies%20names.gif)
